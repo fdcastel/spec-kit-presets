@@ -34,6 +34,13 @@ specify preset add --dev ./<preset>
 
 You can also browse individual presets by navigating to their directory and reading the README for more details.
 
+## Cheatsheet
+
+To install the latest `vscode-ask-questions`
+```powershell
+specify preset add --from "https://github.com/fdcastel/spec-kit-presets/releases/download/vscode-ask-questions-v1.0.0/vscode-ask-questions.zip"
+```
+
 ## More Information
 
 See the [Spec Kit README](https://github.com/github/spec-kit/blob/main/README.md) for more information about Spec Kit and its preset system.
