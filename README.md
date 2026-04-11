@@ -38,7 +38,7 @@ You can also browse individual presets by navigating to their directory and read
 
 To install the latest `vscode-ask-questions`
 ```powershell
-specify preset add --from "https://github.com/fdcastel/spec-kit-presets/releases/download/vscode-ask-questions-v1.0.0/vscode-ask-questions.zip"
+specify preset add --from "https://github.com/fdcastel/spec-kit-presets/releases/download/vscode-ask-questions-v1.0.1/vscode-ask-questions.zip"
 ```
 
 ## More Information
